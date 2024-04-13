@@ -24,4 +24,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+- <b>Creating the tickets</b>
 
+<h3>Sev-A (1 hour, 24/7)</h3>
+- <b>Assignment and Communication</b>
+- <b>Working the Issue</b>
+- <b>Resolution</b>
+
+<h3>Sev-B (4 hours, 24/7)</h3>
+- <b>Assignment and Communication</b>
+- <b>Working the Issue</b>
+- <b>Resolution</b>
+
+<h3>Sev-B/C (2 hours, business hours)</h3>
+- <b>Assignment and Communication</b>
+- <b>Working the Issue</b>
+- <b>Resolution</b>
