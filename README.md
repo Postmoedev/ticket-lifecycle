@@ -24,19 +24,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-- <b>Creating the tickets</b>
+<h3>Creating the tickets:</h3>
 
-<h3>Sev-A (1 hour, 24/7)</h3>
+![image](https://github.com/Postmoedev/ticket-lifecycle/assets/150564271/4b1c347e-ee34-4c85-a858-ea69f0966329)
+
+![image](https://github.com/Postmoedev/ticket-lifecycle/assets/150564271/5bb4647b-5c14-42b2-874a-9cd194ceb1a6)
+
+<h3>Sev-A (2 hour, 24/7), Sev-B (4 hours, 24/7), Sev-B/C (2 hours, business hours)</h3>
+
+<h4>Example:</h4>
 - <b>Assignment and Communication</b>
+
+![image](https://github.com/Postmoedev/ticket-lifecycle/assets/150564271/c970f6d3-793d-4150-83cd-97099ed5be7f)
+
+![image](https://github.com/Postmoedev/ticket-lifecycle/assets/150564271/a9d76a03-c960-4bed-b34f-d012b1072151)
+
 - <b>Working the Issue</b>
+
+![image](https://github.com/Postmoedev/ticket-lifecycle/assets/150564271/12a2a5db-c13e-4e78-9b99-066e39e17db5)
+
 - <b>Resolution</b>
 
-<h3>Sev-B (4 hours, 24/7)</h3>
-- <b>Assignment and Communication</b>
-- <b>Working the Issue</b>
-- <b>Resolution</b>
-
-<h3>Sev-B/C (2 hours, business hours)</h3>
-- <b>Assignment and Communication</b>
-- <b>Working the Issue</b>
-- <b>Resolution</b>
+![image](https://github.com/Postmoedev/ticket-lifecycle/assets/150564271/84844dd9-85b6-4bd6-adf4-6a9fe0757043)
